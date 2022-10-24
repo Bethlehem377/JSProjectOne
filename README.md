@@ -1,0 +1,2 @@
+# JSProjectOne
+First Javascript project
